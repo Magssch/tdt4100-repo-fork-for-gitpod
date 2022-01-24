@@ -4,3 +4,9 @@ image:
 tasks:
   - init: sdk use java 17.0.1-tem
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - vscjava.vscode-java-pack
+    - MS-vsliveshare.vsliveshare
+    - bilalekrem.scenebuilderextension
